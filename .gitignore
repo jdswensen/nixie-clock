@@ -3,6 +3,13 @@
 *.ko
 *.obj
 *.elf
+*.map
+*.lst
+*.crf
+*.d
+*.lnp
+*.dep
+*.axf
 
 # Precompiled Headers
 *.gch
